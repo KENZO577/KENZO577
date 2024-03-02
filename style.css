@@ -9,7 +9,18 @@
 	text-align:center;
 	color:#333;
 	background: pink;
+#carousel  {
+    display: block;
+    position: absolute;
+    width: 150px;
+    height: 111px;
+    left: 10px;
+    top: 10px;
+    background: white url("https://i.pinimg.com/originals/a6/66/c0/a666c011c80315ad3c3a49b8e7d2ba06.gif") no-repeat center;
+    overflow: hidden;
+    border: solid 1px black;
 
+}
 }
 .love,.yes,.no{padding-top: 15%;
 		
