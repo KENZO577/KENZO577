@@ -1,6 +1,8 @@
-body {
-	background-color: #f8fafc;
-}
+ body{
+                background-image:url(https://i.pinimg.com/originals/87/59/fc/8759fc10b242ffe8025e2033b53770dd.gif);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    }
 
 .container {
 	padding: 2rem;
